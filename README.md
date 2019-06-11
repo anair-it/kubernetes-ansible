@@ -3,6 +3,7 @@
 Build a Kubernetes cluster on Ubunti 18.04(bionic) using Ansibl
 
 # Pre-requisite
+- Linux based host OS. Anisble needs Linux.
 - Install latest Oracle Virtualbox
 - Install latest vagrant
 - Install latest ansible package
