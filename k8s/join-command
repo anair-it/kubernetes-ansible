@@ -1,1 +1,0 @@
-kubeadm join 192.168.50.50:6443 --token fi3clg.3drrnhec2sqrlof3     --discovery-token-ca-cert-hash sha256:8b84e6ea369500ecfe8058f7019e455b969b9d494eb7f74c18a6a53866995cb8 
