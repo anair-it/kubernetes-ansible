@@ -11,7 +11,7 @@ Build a Kubernetes cluster on Ubunti 18.04(bionic) using Ansible
 # Software provisioned in this process
 - Ubuntu VM: 18.04 (bionic) with 2 CPUs and 2GB RAM
 - docker: latest (at this time it is 18.x)
-- kubernetes: latest (at this time it is 1.4.x)
+- kubernetes: latest (at this time it is 1.14.x)
 - snap
 - helm
 
