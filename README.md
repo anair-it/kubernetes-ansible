@@ -1,6 +1,6 @@
 # Kubernetes Ansible Playbook
 
-Build a Kubernetes cluster on Ubunti 18.04(bionic) using Ansible
+Provision a Kubernetes cluster on Ubuntu 18.04(bionic) using Ansible playbook.
 
 # Pre-requisites
 - Only run on Linux based host OS. Ansible needs Linux.
